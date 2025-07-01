@@ -2,11 +2,11 @@
 
 ![Blinkit Dashboard](./Annotation%202025-06-23%20141957.png)
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents a comprehensive **Excel dashboard** designed for Blinkit, a grocery delivery platform. The dashboard offers deep insights into sales trends, outlet performance, product categories, and customer ratings from 2011 to 2022.
 
-## 🧾 Dataset
+##  Dataset
 
 The dataset, titled **"BlinkIT_Grocery_Data.xlsx"**, includes multiple dimensions:
 - Yearly Sales Performance
@@ -15,7 +15,7 @@ The dataset, titled **"BlinkIT_Grocery_Data.xlsx"**, includes multiple dimension
 - Customer Ratings
 - Sales Volume and Revenue
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Total Sales**: ₹1.2M with a 2% YoY growth from previous year (₹1.29M).
 - **Top Selling Item Type**: *Fruits and Vegetables* with ₹178.1K in sales.
@@ -30,7 +30,7 @@ The dataset, titled **"BlinkIT_Grocery_Data.xlsx"**, includes multiple dimension
 - **Yearly Peak**: 2018 saw the highest sales with ₹204,522.
 - **Ratings**: 33.4K total ratings, with the highest in 2018 (5,742 ratings).
 
-## 📌 Dashboard Features
+##  Dashboard Features
 
 - Donut and pie charts for category breakdowns
 - Line graphs for trend analysis
@@ -38,11 +38,11 @@ The dataset, titled **"BlinkIT_Grocery_Data.xlsx"**, includes multiple dimension
 - KPI summary cards for total sales, ratings, item counts, and weights
 - Interactivity by filters: Year, Tier Level, Outlet Size, and Rating
 
-## 💼 Tools Used
+##  Tools Used
 
 - **Microsoft Excel** (Power Pivot, Charts, Slicers, and Conditional Formatting)
 - **Data Cleaning & Transformation** in Excel sheets
 - Visualization through native Excel Dashboard tools
 
-## 📁 File Structure
+##  File Structure
 
