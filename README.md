@@ -44,5 +44,5 @@ The dataset, titled **"BlinkIT_Grocery_Data.xlsx"**, includes multiple dimension
 - **Data Cleaning & Transformation** in Excel sheets
 - Visualization through native Excel Dashboard tools
 
-##  File Structure
+
 
